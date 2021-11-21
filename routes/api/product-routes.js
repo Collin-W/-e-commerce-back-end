@@ -8,12 +8,6 @@ router.get('/', (req, res) => {
   // find all products
   // be sure to include its associated Category and Tag data
 
-  // {
-  //   product_name: 'Plain T-Shirt',
-  //   price: 14.99,
-  //   stock: 14,
-  //   category_id: 1,
-  // }
   Product.findAll(
     {
       include: [Category, Tag]
@@ -123,3 +117,12 @@ router.delete('/:id', (req, res) => {
 });
 
 module.exports = router;
+
+
+
+  // {
+  //   product_name: 'Plain T-Shirt',
+  //   price: 14.99,
+  //   stock: 14,
+  //   category_id: 1,
+  // }
