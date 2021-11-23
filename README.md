@@ -6,7 +6,7 @@
 An API ready to be added with a front end application for an online retail store.
 
 ## Usage:
-This back end for an e-commerce site, allows the compainy to create an entirly perosnalized front end site populated with product. Using Postman or Insomina you may edit tables in the database. 
+This back end for an e-commerce site, allows the company to create an entirly perosnalized front end site populated with product. Using Postman or Insomina you may edit tables in the database. 
 
 ## Link To Video Demo:
 
