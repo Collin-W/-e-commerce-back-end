@@ -1,13 +1,28 @@
-# E-commerce Back End Starter Code
+ [![Apache-2.0](https://img.shields.io/badge/Apache-License-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-GIVEN a functional Express.js API
-WHEN I add my database name, MySQL username, and MySQL password to an environment variable file
-THEN I am able to connect to a database using Sequelize
-WHEN I enter schema and seed commands
-THEN a development database is created and is seeded with test data
-WHEN I enter the command to invoke the application
-THEN my server is started and the Sequelize models are synced to the MySQL database
-WHEN I open API GET routes in Insomnia Core for categories, products, or tags
-THEN the data for each of these routes is displayed in a formatted JSON
-WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
-THEN I am able to successfully create, update, and delete data in my database
+# E-commerce Back End
+
+## Description:
+An API ready to be added with a front end application for an online retail store.
+
+## Usage:
+This back end for an e-commerce site, allows the compainy to create an entirly perosnalized front end site populated with product. Using Postman or Insomina you may edit tables in the database. 
+
+## Link To Video Demo:
+
+## Features:
+- Create, update, and delete products, tags, and categories in the applications database.
+
+## Technologies & Tools:
+- Sequelize
+- Node.js
+- Dotenv
+- Express
+- Mysql2
+- JavaScript
+
+ ## Contributor(s):
+    Collin Whalen Nov 2021 
+
+  ## Questions? Contact me!:
+  https://github.com/Collin-W
