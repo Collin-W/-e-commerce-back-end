@@ -9,6 +9,7 @@ An API ready to be added with a front end application for an online retail store
 This back end for an e-commerce site, allows the company to create an entirly perosnalized front end site populated with product. Using Postman or Insomina you may edit tables in the database. 
 
 ## Link To Video Demo:
+https://watch.screencastify.com/v/7lO1ey9o8mkl0CUWkYDr
 
 ## Features:
 - Create, update, and delete products, tags, and categories in the applications database.
