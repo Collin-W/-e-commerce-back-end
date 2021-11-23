@@ -22,7 +22,7 @@ This back end for an e-commerce site, allows the compainy to create an entirly p
 - JavaScript
 
  ## Contributor(s):
-    Collin Whalen Nov 2021 
+Collin Whalen Nov 2021 
 
   ## Questions? Contact me!:
   https://github.com/Collin-W
